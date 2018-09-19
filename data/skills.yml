@@ -17,13 +17,13 @@ source:
   - name: [Cloud overlays, Google Cloud, AWS, Microsoft Azure, Digital Ocean, IBM Bluemix, CloudFoundry, Full scale Templatized deployable immutable cloud solutions, CLIs and Cloud APIs, Scaling, Iaas Clusters, Various PaaS on CSPs]
     stars: 4
      
-  - name: [API Management, Apigee Platform with Edge Micro, 3scale APIcast and API Management, IBM API Management with DataPower Gateway Appliances, Mulesoft API Management with Mule 4.x core/GW, API Security and periphery, API Design, node-red, netflix spring boot, Loopback, WS02, Open Source API Management, Keycloak, CA Layer7, IDM Stacks]
+  - name: [API Management, Apigee Platform with k8s service meshes, 3scale APIcast and API Management, IBM API Management with DataPower Gateway Appliances, Mulesoft API Management with Mule 4.x core/GW, API Security and periphery, API Design, node-red, netflix spring boot, Loopback, WS02, Open Source API Management, Keycloak, CA Layer7, IDM Stacks]
     stars: 4
     
-  - name: [Hypervisors, Microvisors,KVM, Hyper-V, VMWare, vagrant, Hashicorp tools and consul]
+  - name: [Hypervisors, Microvisors,KVM, Hyper-V, VMWare, vagrant, Hashicorp tools including terraform and consul]
     stars: 4
   
-  - name: [Container Management Platforms, Kubernetes/Heptio/GCE, Azure Kubernetes Service, Helm, Draft, Tiller Server, Charts, Docker Data Center with Universal Control Plane, Swarm Mode, Rancher, rkt, oci, containerd, etcd, zookeeper, Mesosphere, docker plugins, Docker CE, Red hat Openshift, Registries, container pipelines, Jenkins, TeamCity, VSTS, Various CLIs and APIs, Gitlab EE, Ansible for el7 and el6, SonarQube, GlusterFS, Container Native Storage]
+  - name: [Container Management Platforms, Kubernetes/Heptio/GKE, Service Meshes, Azure Kubernetes Service, Helm, Draft, Tiller Server, Charts, Docker Data Center with Universal Control Plane, Swarm Mode, Rancher, rkt, oci, containerd, etcd, zookeeper, Mesosphere, docker plugins, Docker CE, Red hat Openshift, Registries, container pipelines, Jenkins, TeamCity, VSTS, Various CLIs and APIs, Gitlab EE, Ansible for el7 and el6, SonarQube, GlusterFS, Container Native Storage]
     stars: 4
     
   - name: [Middleware and ESB, WebSphere Stack and topologies, WebSphere ESB, Oracle SOA Suite components, JBoss Community and EAP components, Fuse, Mule distributed, Websphere MQ, AMQP, Event Hubs, Software AG Apama Event Monitors]
